@@ -23,4 +23,6 @@ THEN I find that the app uses Redux instead of the Context API
 WHEN I review the way the app dispatches actions
 THEN I find that the app uses Redux instead of the Context API
 ```
+<img width="1426" alt="Shop-shop " src="https://user-images.githubusercontent.com/85650009/151889301-cbc0f4ee-45ae-4142-92a7-b75bbb00a01d.png">
+
 
