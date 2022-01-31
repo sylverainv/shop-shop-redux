@@ -23,4 +23,4 @@ THEN I find that the app uses Redux instead of the Context API
 WHEN I review the way the app dispatches actions
 THEN I find that the app uses Redux instead of the Context API
 ```
-Assets/22-state-homework-demo-01.gif
+
